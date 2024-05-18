@@ -1,6 +1,6 @@
 ### Hi there, it's [Kayla](https://km-verde.github.io/) 👋
 
-**Pronouns**: she/her
+*Pronouns: she/her*
 
 I'm a CS student based in metro-Atlanta, practicing and learning code whenever I can. My interests in computer science lie in human-computer interactions, digital storytelling, and assistive technologies.
 
